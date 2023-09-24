@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi 👋, I'm a full-stack developer from Brazil, working mainly with web development and hybrid mobile apps.</h3>
+  <h3>Hi 👋, I'm a full-stack developer from Brazil, working with web development and hybrid mobile apps.</h3>
   <br>
   
   ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrbarbosa&include_all_commits=true&theme=algolia&show_icons=true)</h3>
@@ -8,7 +8,6 @@
   <p>
     <a href="https://linkedin.com/in/gabriel-ranéa-barbosa-a2841a180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-ranéa-barbosa-a2841a180" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/5293974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5293974" height="30" width="40" /></a>
-    <a href="https://fb.com/gabrielraneab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielraneab" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/gabcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabcoder" height="30" width="40" /></a>
   </p>
 
